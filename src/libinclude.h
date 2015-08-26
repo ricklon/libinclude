@@ -8,4 +8,5 @@ public:
   void begin();
 };
 
+#include    "testConfig.h"
 #endif
