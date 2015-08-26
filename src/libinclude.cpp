@@ -1,6 +1,8 @@
-#include "libinclude.h"
+#include <libinclude.h>
+#include <Arduino.h>
 
-libinclude::~libinclude() {}
-void begin()
+
+libinclude::libinclude() {}
+void libinclude::begin()
 {
 }
