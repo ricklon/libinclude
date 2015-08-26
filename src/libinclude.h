@@ -5,7 +5,7 @@
 class libinclude
 {
 public:
-  Motor();
+  libinclude();
   void begin();
 }
 
