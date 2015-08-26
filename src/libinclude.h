@@ -2,6 +2,8 @@
 #ifndef libinclude_h
 #define libinclude_h
 
+#include <Arduino.h>
+
 class libinclude
 {
 public:
